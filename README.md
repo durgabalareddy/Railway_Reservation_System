@@ -1,5 +1,5 @@
 # Railway_Reservation_System
-(Dbms and Android mini project) An Android Application for booking seats in a Train.
+An Android Application for booking seats in a Train.
 Basic implementation of Android and DBMS concepts such as Triggers for automation.
 ### Features Include
 * Shows Trains between stations.
